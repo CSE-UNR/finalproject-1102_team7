@@ -1,3 +1,7 @@
+//Adam Beltran & Skyler Resnick
+//Final Project
+//May 7 2024
+
 #include <stdio.h>
 #define ROW 100
 #define COL 100
